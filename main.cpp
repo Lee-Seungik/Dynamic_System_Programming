@@ -4,7 +4,7 @@ using namespace std;
 
 int main() 
  {
-		Area A1, A2(2,1);
+  Area A1, A2(2,1);
   int temp;
   
   cout<< "Default Area" << endl; temp = A1.AreaCalculation();
